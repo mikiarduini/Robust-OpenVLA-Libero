@@ -221,5 +221,5 @@ weights/
 # Ignore logs & venv
 __pycache__/
 .env
-venv/
+.venv/
 wandb/
